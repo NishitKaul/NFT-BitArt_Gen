@@ -44,12 +44,6 @@ This Python program converts images into 8-bit art, providing a simplified "bit 
 
 - **Adjusting Color Palette:** Modify the `n_colors` variable in the script to change the number of colors used in the conversion.
 
-## Example
-
-Here's an example of how the converted image might look:
-
-![Example Image](output_examples/bit_art.png)
-
 ## Caution
 
 Generating without saving the previous output somewhere else will override the file
