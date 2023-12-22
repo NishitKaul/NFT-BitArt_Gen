@@ -18,7 +18,7 @@ This Python program converts images into 8-bit art, providing a simplified "bit 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/username/image-to-8bit-converter.git
+    git clone https://github.com/NishitKaul/NFT-BitArt_Gen.git
     ```
 
 2. Install the required dependencies:
@@ -32,12 +32,13 @@ This Python program converts images into 8-bit art, providing a simplified "bit 
 1. Run the Python script:
 
     ```bash
-    python convert_to_8bit.py
+    python main.py
     ```
 
 2. Enter the path to the image file when prompted.
+   {note: it is better to keep the image in the project-folder only, else it'll be hectic to write down the path }
 
-3. The program will convert the image into an 8-bit art style and display the resulting image.
+4. The program will convert the image into an 8-bit art style and display the resulting image.
 
 ## Configuration
 
@@ -47,7 +48,11 @@ This Python program converts images into 8-bit art, providing a simplified "bit 
 
 Here's an example of how the converted image might look:
 
-![Example Image](example.png)
+![Example Image](output_examples/bit_art.png)
+
+## Caution
+
+Generating without saving the previous output somewhere else will override the file
 
 ## License
 
